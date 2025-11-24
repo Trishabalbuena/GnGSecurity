@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="off_white">#E8E5D8</color>
+    <color name="burgundy">#6E2B3A</color>
+    <color name="light_gray">#B7B2AB</color>
+    <color name="gum_brown">#7A5A36</color>
+    <color name="bright_white">#F4F4F4</color>
+    <color name="gold">#C9A13A</color>
+
+    <!-- UI Colors -->
+    <color name="primary">@color/burgundy</color>
+    <color name="primary_dark">@color/burgundy</color>
+    <color name="accent">@color/gold</color>
+    <color name="background">@color/off_white</color>
+    <color name="surface">@color/bright_white</color>
+    <color name="on_surface">#000000</color>
+
+    <!-- Semantic Colors -->
+    <color name="error_red">#B00020</color>
+
+</resources>
